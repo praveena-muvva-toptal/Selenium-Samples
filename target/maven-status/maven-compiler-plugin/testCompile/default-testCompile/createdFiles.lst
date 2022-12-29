@@ -1,0 +1,13 @@
+Base/BaseTest.class
+Pages/CheckoutPage.class
+Pages/ProductDetailsPage.class
+Tests/C_CheckoutTest.class
+ExtentReportListener/ExtentReporterNG.class
+Pages/RegistrationPage.class
+Pages/HomePage.class
+Pages/CartPage.class
+Base/BasePage.class
+Tests/A_LoginTest.class
+Pages/ProductsListPage.class
+Tests/B_ProductsTest.class
+Pages/LoginPage.class
